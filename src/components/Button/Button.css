@@ -1,0 +1,14 @@
+button {
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover,
+button.on {
+  background-color: red;
+  color: #fff;
+}
